@@ -7,3 +7,33 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+html {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1.125em; /* 18px / 16 = 1.125 */
+  line-height: 1.3333333333em; /* 24 / 18 = 1.3333333333 */
+
+}
+
+h1 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 3.375em; /* 60.75px / 18 = 3.375 */
+  line-height: 2em; /* 24 * 1.5 = 36 / 18 = 2 */
+  padding-top: 0.3333333333em; /* 24 / 1/4 = 6 / 18 = 0.6666666667em */
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 1.5em; /* 27 / 18 = 1.5 */
+  padding-left: 1.7em;
+  padding-bottom: 0.3333333333em;
+  padding-top: 1.3333333333em;
+
+
+}
+
+p {
+  padding-left: 2.6666666667em; /* 24 * 2 = 48 / 18 = 2.6666666667em */
+  padding-right: 2.6666666667em;
+  padding-bottom: 1.3333333333em;
+}
