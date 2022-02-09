@@ -15,8 +15,8 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=1000u0kzGsW0oHNmpL6CqnmJmgq
+Your Rationale: I decided to choose red as the base color for this palette because when you think of the color red, one becomes excited and energetic. Thus, since this a site introducing a new console gaming platform will invoke these emotions and help hype a viewer for this new console. I made sure to put white in the palette because it works as a great background color but the second color also works well because one see can black and white text and its not too distracting to read text. While the second color will work great as a headlines or titles. 
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
