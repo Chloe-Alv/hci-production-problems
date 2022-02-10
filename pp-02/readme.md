@@ -30,5 +30,5 @@ Your Rationale: I knew I wanted to choose a tint of yellow because yellow is a v
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=b4h2O3L1k009S00Zt00sw00g-lJ00kpjs1NkPYS7qrwKkuHOfnktcEhhm++lQG-EZugJcmr
+Your Rationale: I've decided to make a shade of grey as a base because it offers a great background and shows a sense of formalness, which plays well with it being an ad for a cybersecurity course. Then I wanted colors that pop against the grey background, draw a potential student in, and keep formality. Thus I chose a bright green and a shade of blue. The bright green can be used for a headline because it can bring an energizing feeling. At the same time, the shade of blue works great as a background and for headlines because of its ability to invoke trustworthiness and reliability, which are essential for promoting a class that people are possibly paying for.
