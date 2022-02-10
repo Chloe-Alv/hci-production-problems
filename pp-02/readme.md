@@ -25,8 +25,8 @@ Your Rationale: I choose a lighter blue as a base color because I feel like ligh
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=31L181karBB00GC6aN5+eKEt0pXkvVNBf-WXn9RXHBsPL4iokmB++66+SfJ+WtH+TR7Y1
+Your Rationale: I knew I wanted to choose a tint of yellow because yellow is a very calming and happy color. Because of these characteristics, I felt like it would make a kid happy to want to learn the alphabet. Also, this tint of yellow works well as a background. From there, I decided only to pick colors that invoke the same emotions, so I chose a tint of blue and bright red. Both colors work well against a yellow tint—the bright red works well for headlines and welcoming titles. In comparison, the tint of blue will work great for navigation or a footer.  
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
