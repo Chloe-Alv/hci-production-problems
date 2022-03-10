@@ -29,8 +29,10 @@ Small commits to your Production Problems repository that include:
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* HCI Guideline One (URL): https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/data-entry/
 * Describe how you implemented that guideline in your sketch:
+ I implemented all required fields highlighted in red and added an * by them to show users that these fields are required. Thus, it will alert the user that these fields are required, and the user will know which fields are required without scrolling through each field. I also removed address line 2 and made Address have two input lines with placeholders to show the user why there are two address inputs.
+
 
 * HCI Guideline Two (URL):
 * Describe how you implemented that guideline in your sketch:
