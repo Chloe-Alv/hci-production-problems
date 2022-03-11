@@ -34,8 +34,9 @@ Small commits to your Production Problems repository that include:
  I implemented all required fields highlighted in red and added an * by them to show users that these fields are required. Thus, it will alert the user that these fields are required, and the user will know which fields are required without scrolling through each field. I also removed address line 2 and made Address have two input lines with placeholders to show the user why there are two address inputs.
 
 
-* HCI Guideline Two (URL):
+* HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/
 * Describe how you implemented that guideline in your sketch:
+  I saw that the navigation bar was on the side, and based on this guideline, the navigation bar should always be on the side of the screen. Also, with the navigation bar being at the top of the screen, it would be easier for users to navigate through the page. I also added an icon to show other parts to the navigation bar. 
 
 * HCI Guideline Three (URL):
 * Describe how you implemented that guideline in your sketch:
