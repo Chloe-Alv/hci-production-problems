@@ -36,10 +36,11 @@ Small commits to your Production Problems repository that include:
 
 * HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/
 * Describe how you implemented that guideline in your sketch:
-  I saw that the navigation bar was on the side, and based on this guideline, the navigation bar should always be on the side of the screen. Also, with the navigation bar being at the top of the screen, it would be easier for users to navigate through the page. I also added an icon to show other parts to the navigation bar. 
+  I saw that the navigation bar was on the side, and based on this guideline, the navigation bar should always be on the side of the screen. Also, with the navigation bar being at the top of the screen, it would be easier for users to navigate through the page. I also added an icon to show other parts to the navigation bar.
 
-* HCI Guideline Three (URL):
+* HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/accounts/
 * Describe how you implemented that guideline in your sketch:
+  I decided to explain more about the mailing list option and added more elaboration to what they are signing up for. 
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
